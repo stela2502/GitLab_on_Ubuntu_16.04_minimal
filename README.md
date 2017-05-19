@@ -10,6 +10,7 @@ Clone this repository
 	git clone https://github.com/stela2502/GitLab_on_Ubuntu_16.04_minimal.git
 
 or
+
 	git -C GitLab_on_Ubuntu_16.04_minimal pull
 
 Afterwards this installation should host a github installation. 
