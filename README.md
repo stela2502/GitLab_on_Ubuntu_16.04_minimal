@@ -35,3 +35,8 @@ Second you need to change the origin of your existing github based repository or
 This did work without a problem!
 
 Whenever you clone this the original connection to github is lost.
+But you can re-add the github connection to this new clone exactly as you added the gitlab connection in the old one.
+
+	git remote add github url-to-github-repo
+
+Commits to github and gitlab are possible from both git trees.
