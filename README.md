@@ -32,3 +32,6 @@ Second you need to change the origin of your existing github based repository or
 	git remote add gitlab url-to-gitlab-repo
 	git push gitlab master
 
+This did work without a problem!
+
+Whenever you clone this the original connection to github is lost.
