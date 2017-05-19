@@ -7,3 +7,4 @@ errorTag:
 	## workaround from https://bugs.launchpad.net/ubuntu/+source/gitlab/+bug/1574349
 	( cd cd /usr/share/gitlab/ && sudo bundle )
 	sudo apt install --yes gitlab
+	sudo rm /etc/nginx/sites-available/default
