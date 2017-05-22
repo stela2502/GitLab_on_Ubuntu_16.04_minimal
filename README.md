@@ -13,7 +13,12 @@ or
 
 	git -C GitLab_on_Ubuntu_16.04_minimal pull
 
-Afterwards this installation should host a github installation. 
+Now you only need to 
+
+	make -C GitLab_on_Ubuntu_16.04_minimal
+
+
+Afterwards this system should host a github installation. 
 
 # Problems:
 
