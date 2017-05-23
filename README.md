@@ -1,3 +1,10 @@
+# Forget all this
+
+This test has failed - follow the info on the official gitlab pages:
+
+https://about.gitlab.com/downloads/#ubuntu1604
+
+
 # GitLab_on_Ubuntu_16.04_minimal
 Some install scripts and annotations about installing Gitlab on a ubuntu minimal server 16.04.2
 
